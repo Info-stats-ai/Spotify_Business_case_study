@@ -1,0 +1,11 @@
+# requirements.txt content
+
+pandas
+openpyxl
+sklearn
+matplotlib
+seaborn
+spotipy
+requests
+beautifulsoup4
+selenium
